@@ -3,9 +3,9 @@
 ### Project 1 for CS312
 
 This code includes:
-<li>
-        <ul>Fermat primality test algorithm</ul>
-</li>
+<ul>
+        <li>Fermat primality test algorithm</li>
+</ul>
 
 Code up the Fermat primality test pseudocode from Figure 1.8 of the text. You may set k to any value you like (see p. 27), this value indicates how many random trials (values of a) are used.
 Implement modular exponentiation (pseudo-code in Figure 1.4 on p. 19). Your primality test should use your modular exponentiation function and should work properly for numbers as large as 230 = 1073741824.
