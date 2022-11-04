@@ -1,8 +1,8 @@
 # CS312 Fermat
 
-### Project 1 for CS312
+## Project 1 for CS312
 
-This code includes:
+### This code includes:
 <ul>
         <li>Fermat primality test algorithm</li>
         <li>Modular exponentiation algorithm</li>
