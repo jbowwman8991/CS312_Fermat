@@ -11,5 +11,5 @@
         <li>Probability that k Miller-Rabin trials give the correct answer</li>
 </ul>
 
-To run the code, run the Proj1GUI.py file.
+To run the code, run the Proj1GUI.py file. <br>
 In the GUI, N is the number to test and K is the number of random trials that will be run.
